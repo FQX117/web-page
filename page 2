@@ -1,0 +1,107 @@
+ <!DOCTYPE html>
+<html>
+  <head>
+    <title>Joe's Mod</title>
+     <h1>Joe's Mod</h1>
+    <link href="https://apply.holbertonschool.com/level2/school.css" rel="stylesheet">
+      <link href="styles.css" rel="stylesheet">
+        <script src="behavior.Js"></script>
+
+
+  </head>
+
+
+<body class="works_on_smartphone">
+          <header>
+            <div class="right">
+
+<html>
+<head>
+<title>Your Website Title</title>
+<!-- You can use Open Graph tags to customize link previews.
+Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
+<meta property="og:url"           content="https://www.your-domain.com/your-page.html" />
+<meta property="og:type"          content="website" />
+<meta property="og:title"         content="Your Website Title" />
+<meta property="og:description"   content="Your description" />
+<meta property="og:image"         content="https://www.your-domain.com/path/image.jpg" />
+</head>
+<body>
+
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Your share button code -->
+
+<div class="fb-share-button"
+data-href="https://www.facebook.com/joe.holeman.79/"
+data-layout="button_count">
+</div>
+
+</body>
+</html>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
+            <ul>
+               <li><a href="http://52.54.116.205/">Home</a></li>
+              <li><a href="http://52.54.116.205/tweets.html">Tau'ri Ships</a></li>
+              <li><a href="http://52.54.116.205/2.html">Asgard Shpis</a></li>
+              <li><a href="http://52.54.116.205/3.html">Goa'uld Ships</a></li>
+            </ul>
+
+          </header>
+          <main>
+            <article>
+               <p>
+              Future Tau'ri Ships
+          </p>
+
+  <p>
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“God fights on the side with the best artillery,” declared the French emperor and general Napoleon Bonaparte.</p>&mdash; Joe Holeman (@HolemanJoe) <a \
+href="https://twitter.com/HolemanJoe/status/1452342599654821895?ref_src=twsrc%5Etfw">October 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+          </p>
+
+
+
+               <p>
+               </p>
+
+
+
+
+
+          <p>
+                <a href="https://stargate-expanded.fandom.com/wiki/Battlecruiser"> Battlecruiser  Wiki</a>
+
+
+</p>
+        <img scr="https://i.pinimg.com/736x/bc/18/1c/bc181c426a1f6a853386c2f54fbe033f--battleship-scifi.jpg">
+
+
+
+
+
+
+
+
+
+
+          </article>
+</main>
+
+   <footer>
+     Made by Joe Holeman for <a href="https://apply.holbertonschool.com" target="_blank">Holberton School</a>.
+   </footer>
+
+
+
+
+  </body>
+</html>
