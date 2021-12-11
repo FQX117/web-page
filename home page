@@ -1,0 +1,145 @@
+ <!DOCTYPE html>
+<html>
+  <head>
+    <title>Joe's Mod</title>
+     <h1>Joe's Mod</h1>
+    <link href="https://apply.holbertonschool.com/level2/school.css" rel="stylesheet">
+      <link href="styles.css" rel="stylesheet">
+        <script src="behavior.Js"></script>
+
+
+  </head>
+
+
+<body class="works_on_smartphone">
+          <header>
+            <div class="right">
+
+<html>
+<head>
+<title>Your Website Title</title>
+<!-- You can use Open Graph tags to customize link previews.
+Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
+<meta property="og:url"           content="https://www.your-domain.com/your-page.html" />
+<meta property="og:type"          content="website" />
+<meta property="og:title"         content="Your Website Title" />
+<meta property="og:description"   content="Your description" />
+<meta property="og:image"         content="https://www.your-domain.com/path/image.jpg" />
+</head>
+<body>
+
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Your share button code -->
+<div class="fb-share-button"
+data-href="https://www.facebook.com/joe.holeman.79/"
+data-layout="button_count">
+</div>
+
+</body>
+</html>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+             </div>
+            <ul>
+               <li><a href="http://52.54.116.205/">Home</a></li>
+              <li><a href="http://52.54.116.205/tweets.html">Tau'ri Ships</a></li>
+              <li><a href="http://52.54.116.205/page 2.html">Asgard Shpis</a></li>
+              <li><a href="http://52.54.116.205/page 3.html">Goa'uld Ships</a></li>
+            </ul>
+
+
+          </header>
+          <main>
+<article>
+            <p><strong> welcome!</strong>
+            hear you can learn about my mod and where to add it.
+            if you like space battles navel combat and star gate you are in the rifgt place.
+          </p>
+
+
+          <p>
+                You will need Steam, Battle Group and a vr set up to utilize this mod.
+          </p>
+
+
+
+          <p>
+            This mod is based on the USS Daedalus Deep space carrier, One of the primery USAF or Tau'ri battle ships used mostly in the Pegasus Galaxy, and was the Flagship of the Pegasus fleet.
+            it was capable of making the trip back to earth in 18 days and had both Tau'ri and Asgardian technolagy alowing it to stand uo to ships even much biger then itself.
+
+          </p>
+
+          <p>
+                <a href="https://stargate-expanded.fandom.com/wiki/USS_Daedalus"> USS Daedalus Wiki</a>
+          </p>
+
+              <img class="small"id="smart_thumbnail" src="https://i.pinimg.com/originals/c4/12/cb/c412cba5dd610a8e56e6acd8f2a125a5.jpg">
+
+
+
+
+
+
+
+
+          <h2>Download Location</h2>
+
+
+<p><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2329516338"><img src= "https://th.bing.com/th/id/OIP.lKomQc0_hcceD0QzpAs4RgHaEK?pid=ImgDet&rs=1"></a></p><p><srtong>STEAM LINK</strong></p>
+        <div class="content_section_text">
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2329516338">https://steamcommunity.com/sharedfiles/filedetails/?id=2329516338</a>
+          <p>
+                TO download fallow the link and subscribe the mod will atomaticly be added to your game then open and test Have fun Commander.
+
+
+
+     <h3>Bug Reporting</h3>
+
+
+
+          <p>
+            Please go to the mod page on steam and report any bugs there. As it will be the fastest way for me to address them.</p>
+          </article>
+<aside>
+  <div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://http-52-54-116-205.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+          </aside>
+
+</main>
+
+   <footer>
+     Made by Joe Holeman for <a href="https://apply.holbertonschool.com" target="_blank">Holberton School</a>.
+   </footer>
+
+
+
+
+  </body>
+</html>
+
